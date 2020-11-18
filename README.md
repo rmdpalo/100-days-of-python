@@ -10,5 +10,5 @@ Learned:
   - _print("Hello " + input("What is your name?"))
     - will ask "What is your name?"
     - once a user inputs an answer, it will print "Hello Miguel"
-  -len() function, gives us the length of a given string.
+  - len() function, gives us the length of a given string.
     - len("Miguel") will return 6.
