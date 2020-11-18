@@ -12,3 +12,5 @@ Learned:
     - once a user inputs an answer, it will print "Hello Miguel"
   - len() function, gives us the length of a given string.
     - len("Miguel") will return 6.
+- Declaring a variable in python: just name it meaningfully followed by a = and the value.
+  - name = "Miguel"
