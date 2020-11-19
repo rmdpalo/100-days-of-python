@@ -20,6 +20,14 @@ Learned:
 Learned:
 - Primitive Data Types: 
   - String _"hello"_
+    - you can refer to specific elements of a string by calling its index in brackets like 
+    ```python  
+      name = "Miguel"
+      print(name[0]) #will return M
+    ```
   - Integer _1_
   - Float _1.25_
   - Boolean _True_
+- type() function, returns the data type of whatever is inputted.
+- str() function, turns the input into a string data type.
+- float() function, turns the input into a floating point number.
