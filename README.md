@@ -5,6 +5,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 1 Project - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
 - [Day 2 Project - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
 
+## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
 Learned: 
 - print() function, prints whatever is contained into the console, could be any data type or if you enter a variable it will print the value. "Hello World!" 
