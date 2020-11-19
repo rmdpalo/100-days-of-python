@@ -1,6 +1,7 @@
 # 100-days-of-python
 
 ## Projects
+_The links will take you to a repl page where you can see the code written and to run it just click the "Run" button at the top of the page._
 - [Day 1 Project - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
 
 ### Day 1 - Working with Variables in Python to Manage Data
