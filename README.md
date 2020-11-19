@@ -44,4 +44,11 @@ Learned:
      print(8 // 3) #will return 2
    ```
     - floored means that it won't round but simply chop off whatever is not a whole number.
+- f-strings allow us to print things together in a string without having to convert everything
+  ```python
+    score = 0
+    height = 1.7
+    print(f"your score is {score}, your height is {height}m")
+    #will return "your score is 0, your height is 1.7m
+  ```
     
