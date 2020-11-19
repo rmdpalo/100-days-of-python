@@ -1,7 +1,7 @@
 # 100-days-of-python
 
 ## Projects
-_The links will take you to a repl page where you can see the code written and to run it just click the "Run" button at the top of the page. (I recommend you right click and open in a new tab)_
+_The links will take you to a repl page where you can see the code written and to run it just click the "Run" / &#9654; button at the top of the page. (I recommend you right click and open in a new tab)_
 - [Day 1 Project - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
 - [Day 2 Project - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
 
