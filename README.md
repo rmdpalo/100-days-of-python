@@ -31,3 +31,14 @@ Learned:
 - type() function, returns the data type of whatever is inputted.
 - str() function, turns the input into a string data type.
 - float() function, turns the input into a floating point number.
+- Mathematical Operations in Python.
+  - division in python will always turn the numbers into a floating point number.
+- Number Manipulation
+  - round(), rounds input into the nearest whole number.
+    - adding a second argument will determine the number of places you want to round it to.
+    ```python 
+      print(round(8 / 3, 2)) #will return 2.67
+    ```
+   - // this is the floor division operator, will return an integer for division.
+    - floored means that it won't round but simply chop off whatever is not a whole number.
+    
