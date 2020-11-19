@@ -40,5 +40,8 @@ Learned:
       print(round(8 / 3, 2)) #will return 2.67
     ```
    - // this is the floor division operator, will return an integer for division.
+   ```python
+     print(8 // 3) #will return 2
+   ```
     - floored means that it won't round but simply chop off whatever is not a whole number.
     
