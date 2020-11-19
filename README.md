@@ -1,7 +1,7 @@
 # 100-days-of-python
 
 ## Projects
-- [Day 1 Project - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
+- <a href="https://repl.it/join/butaniba-rmdpalo" target="_blank">Day 1 Project - Team Name Generator</a>
 
 ## Day 1 - Working with Variables in Python to Manage Data
 Learned: 
