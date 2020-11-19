@@ -21,5 +21,5 @@ Learned:
 - Primitive Data Types: 
   - String _"hello"_
   - Integer _1_
-  - Float _"1.25"_
+  - Float _1.25_
   - Boolean _True_
