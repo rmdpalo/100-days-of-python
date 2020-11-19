@@ -18,3 +18,8 @@ Learned:
   - name = "Miguel"
 ### Day 2 - Understanding Data Types and Manipulating Strings
 Learned:
+- Primitive Data Types: 
+  - String _"hello"_
+  - Integer _1_
+  - Float _"1.25"_
+  - Boolean _True_
