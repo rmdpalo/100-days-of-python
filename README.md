@@ -58,6 +58,6 @@ Learned:
 ### Day 3 - Control Flow and Logical Operators
 Learned:
 - Comparison Operators
-  - >, <, >=, <=, ==, !=
+  - \>, <, >=, <=, ==, !=
 - Control Flow
   - if, elif, else
