@@ -2,8 +2,9 @@
 
 ## Projects
 _The links will take you to a repl page where you can see the code written and to run it just click the "Run" / &#9654; button at the top of the page. (I recommend you right click and open in a new tab)_
-- [Day 1 Project - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
-- [Day 2 Project - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
+- [Day 1 - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
+- [Day 2 - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
+- [Day 3 - BMI Calculator](https://repl.it/join/fztvlryq-rmdpalo)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
@@ -54,4 +55,9 @@ Learned:
     print(f"your score is {score}, your height is {height}m")
     #will return "your score is 0, your height is 1.7m
   ```
-    
+### Day 3 - Control Flow and Logical Operators
+Learned:
+- Comparison Operators
+  - >, <, >=, <=, ==, !=
+- Control Flow
+  - if, elif, else
