@@ -4,7 +4,7 @@
 _The links will take you to a repl page where you can see the code written and to run it just click the "Run" / &#9654; button at the top of the page. (I recommend you right click and open in a new tab)_
 - [Day 1 - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
 - [Day 2 - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
-- [Day 3 - BMI Calculator](https://repl.it/join/fztvlryq-rmdpalo)
+- [Day 3 - Treasure Island (text based game)](https://repl.it/join/miugjtol-rmdpalo)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
@@ -61,3 +61,15 @@ Learned:
   - \>, <, >=, <=, ==, !=
 - Control Flow
   - if, elif, else
+- Logical Operators
+  - _and_ means they all have to be true
+  - _or_ means only one has to be true
+  - _not_ means it should NOT be what the condition is.
+- .lower() turns strings to all lowercase
+  ```python 
+    "Miguel".lower() #returns "miguel"
+  ```
+- .count() gives us the number of times a letter occurs in a string.
+  ```python
+    "ayaya".count("a") # returns 3
+  ```
