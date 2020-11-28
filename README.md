@@ -73,3 +73,7 @@ Learned:
   ```python
     "ayaya".count("a") # returns 3
   ```
+### Day 4 - Randomisation and Python Lists
+Learned:
+- Python's Random Module [Link](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
+  - _random.randint(a, b)_ generates a random integer between a and b (inclusive)
