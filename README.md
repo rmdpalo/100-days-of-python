@@ -77,3 +77,4 @@ Learned:
 Learned:
 - Python's Random Module [Link](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
   - _random.randint(a, b)_ generates a random integer between a and b (inclusive)
+  - _random.random()_ outputs a random number between 0 and 1 not including 1.
