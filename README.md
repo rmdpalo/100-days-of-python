@@ -5,6 +5,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 1 - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
 - [Day 2 - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
 - [Day 3 - Treasure Island (text based game)](https://repl.it/join/miugjtol-rmdpalo)
+- [Day 4 - Rock Paper Scissors](https://repl.it/join/plbcubfm-rmdpalo)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
@@ -100,7 +101,7 @@ Learned:
   - _random.randint(a, b)_ generates a random integer between a and b (inclusive)
   - _random.random()_ outputs a random number between 0 and 1 not including 1.
   - _random.seed()_ python's random module uses the current timestamp as the seed, but we can set the seed ourselves using this method.
-- Python Lists
+- Python Lists [Link](https://docs.python.org/3/tutorial/datastructures.html)
   - The list is a __data structure__, it's a way of organizing and storing data in Python.
   ```python
     items = [item1, item2]
@@ -111,9 +112,11 @@ Learned:
   - _list.append(a)_ will add the inputted element to the end of the list. i.e. _items.append(item3)_
   - _list.extend(\[])_ will add another list to the end of a list.
   - _string.split("")_ will split a string based on what's inputted in the function. [more info](https://www.askpython.com/python/string/convert-string-to-list-in-python)
-  - [More on lists](https://docs.python.org/3/tutorial/datastructures.html)
+  - You can nest lists inside another list.
 
 Exercises:
 - [Coin Flip](https://repl.it/join/pvlaruqf-rmdpalo)
 - [Banker Roulette, who will pay the bill?](https://repl.it/join/dfcblpkz-rmdpalo)
+- [Treasure Map](https://repl.it/join/inspblyp-rmdpalo)
+
   
