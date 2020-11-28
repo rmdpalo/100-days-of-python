@@ -91,6 +91,7 @@ Learned:
   - _list.extend(\[])_ will add another list to the end of a list.
   - _string.split("")_ will split a string based on what's inputted in the function. [more info](https://www.askpython.com/python/string/convert-string-to-list-in-python)
   - [More on lists](https://docs.python.org/3/tutorial/datastructures.html)
+
 Exercises:
 - [Coin Flip](https://repl.it/join/pvlaruqf-rmdpalo)
 - [Banker Roulette, who will pay the bill?](https://repl.it/join/dfcblpkz-rmdpalo)
