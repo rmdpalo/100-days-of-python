@@ -20,6 +20,14 @@ Learned:
     - len("Miguel") will return 6.
 - Declaring a variable in python: just name it meaningfully followed by a = and the value.
   - name = "Miguel"
+  
+Exercises: 
+- [Printing to the console](https://repl.it/join/rqvtmrbw-rmdpalo)
+- [Debugged print functions](https://repl.it/join/hnqygxft-rmdpalo)
+- [How many chars in your name](https://repl.it/join/whwambrr-rmdpalo)
+- [Switching values](https://repl.it/join/lyqifhza-rmdpalo)
+
+
 ### Day 2 - Understanding Data Types and Manipulating Strings
 Learned:
 - Primitive Data Types: 
@@ -55,6 +63,11 @@ Learned:
     print(f"your score is {score}, your height is {height}m")
     #will return "your score is 0, your height is 1.7m
   ```
+Exercises:
+- [Sum of two numbers.](https://repl.it/join/jnechydl-rmdpalo)
+- [BMI Calculator](https://repl.it/join/uxtoqvma-rmdpalo)
+- [Your Life in Weeks](https://repl.it/join/sgixppuc-rmdpalo)
+  
 ### Day 3 - Control Flow and Logical Operators
 Learned:
 - Comparison Operators
@@ -73,6 +86,14 @@ Learned:
   ```python
     "ayaya".count("a") # returns 3
   ```
+  
+Exercises:
+- [Odd or Even](https://repl.it/join/gvsgefkm-rmdpalo)
+- [BMI Calculator 2.0](https://repl.it/join/fztvlryq-rmdpalo)
+- [Leap Year?](https://repl.it/join/cvtvuslz-rmdpalo)
+- [Pizza Order](https://repl.it/join/tipztwph-rmdpalo)
+- [Love Calculator](https://repl.it/join/pheuasgb-rmdpalo)
+
 ### Day 4 - Randomisation and Python Lists
 Learned:
 - Python's Random Module [Link](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
