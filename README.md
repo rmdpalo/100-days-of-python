@@ -139,6 +139,18 @@ for fruit in fruits:
   max(scores) #will return 3
   min(scores) #will return 1
 ```
+- using for loops with ranges
+  - the arguments inputted into the range determines the start and end of the range(second digit not inclusive)
+  - if a 3rd argument is inputted into a range that shows how much the range steps over each iteration.
+```python
+total = 0 
+for number in range(1,101): #101 because we want it to include 100
+  total += number
+print(total)
+
+for number in range(0, 13, 3):
+  print(number) #this will print 0, 3, 6, 9, 12.
+```
 Exercises:
 - [Average Height Calculator](https://repl.it/join/wcthczik-rmdpalo)
 - [What is the highest score?](https://repl.it/join/nijsyfsa-rmdpalo)
