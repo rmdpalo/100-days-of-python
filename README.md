@@ -127,8 +127,17 @@ fruits = ["Apple", "Peach", "Pear"]
 
 for fruit in fruits:
   print(fruit + " Pie")
-# based on this code, what happens behind the scenes is it takes the values of the list and we assign it to a value "fruit" each time we loop through.
 ```
-- sum() gets the total sum of elements in a list.
+- sum() gets the total sum of all elements in a list.
+```python
+  scores = [1, 2, 3]
+  sum(scores) #will give us 6.
+```
+- max()/min(), gets the highest/lowest number in a list.
+```python
+  scores = [1, 2, 3]
+  max(scores) #will return 3
+  min(scores) #will return 1
+```
 Exercises:
-  
+- [Average Height Calculator](https://repl.it/join/wcthczik-rmdpalo)
