@@ -141,3 +141,4 @@ for fruit in fruits:
 ```
 Exercises:
 - [Average Height Calculator](https://repl.it/join/wcthczik-rmdpalo)
+- [What is the highest score?](https://repl.it/join/nijsyfsa-rmdpalo)
