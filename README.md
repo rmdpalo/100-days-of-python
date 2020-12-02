@@ -119,4 +119,16 @@ Exercises:
 - [Banker Roulette, who will pay the bill?](https://repl.it/join/dfcblpkz-rmdpalo)
 - [Treasure Map](https://repl.it/join/inspblyp-rmdpalo)
 
+### Day 5 - Python Loops
+Learned:
+- syntax for a for loop in python:
+```python
+fruits = ["Apple", "Peach", "Pear"]
+
+for fruit in fruits:
+  print(fruit + " Pie")
+# based on this code, what happens behind the scenes is it takes the values of the list and we assign it to a value "fruit" each time we loop through.
+```
+- sum() gets the total sum of elements in a list.
+Exercises:
   
