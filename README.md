@@ -6,6 +6,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 2 - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
 - [Day 3 - Treasure Island (text based game)](https://repl.it/join/miugjtol-rmdpalo)
 - [Day 4 - Rock Paper Scissors](https://repl.it/join/plbcubfm-rmdpalo)
+- [Day 5 - Password Generator](https://repl.it/join/zkqfnsyx-rmdpalo)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
@@ -151,6 +152,24 @@ print(total)
 for number in range(0, 13, 3):
   print(number) #this will print 0, 3, 6, 9, 12.
 ```
+- random.shuffle()
+  - the second parameter is optional, if not specified it uses random.random()
+```python
+  random.shuffle(x, random)
+```
+- "".join(list), joins the list with the string in the quotes in between each element
+```python
+  letters = ["h", "e", "y"]
+  "".join(letters) #returns "hey"
+```
+- += actually works on lists
+```python
+  letters += "o" #letters becomes ["h", "e", "y", "o"]
+  #works the same as
+  letters.append("o")
+```
 Exercises:
 - [Average Height Calculator](https://repl.it/join/wcthczik-rmdpalo)
 - [What is the highest score?](https://repl.it/join/nijsyfsa-rmdpalo)
+- [Adding all even numbers up to 100](https://repl.it/join/mdkqltqx-rmdpalo)
+- [FizzBuzz](https://repl.it/join/gdvgciug-rmdpalo)
