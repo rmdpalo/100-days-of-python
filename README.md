@@ -7,7 +7,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 3 - Treasure Island (text based game)](https://repl.it/join/miugjtol-rmdpalo)
 - [Day 4 - Rock Paper Scissors](https://repl.it/join/plbcubfm-rmdpalo)
 - [Day 5 - Password Generator](https://repl.it/join/zkqfnsyx-rmdpalo)
-- [Day 6 - Reeborg Maze]()
+- [Day 6 - Reeborg Maze](https://twitter.com/MigsDev/status/1334370818885709831)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
