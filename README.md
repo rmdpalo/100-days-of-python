@@ -43,13 +43,13 @@ Learned:
   - Integer _1_
   - Float _1.25_
   - Boolean _True_
-- type() function, returns the data type of whatever is inputted.
-- str() function, turns the input into a string data type.
-- float() function, turns the input into a floating point number.
+- ```type()``` function, returns the data type of whatever is inputted.
+- ```str()``` function, turns the input into a string data type.
+- ```float()``` function, turns the input into a floating point number.
 - Mathematical Operations in Python.
   - division in python will always turn the numbers into a floating point number.
 - Number Manipulation
-  - round(), rounds input into the nearest whole number.
+  - ```round()```, rounds input into the nearest whole number.
     - adding a second argument will determine the number of places you want to round it to.
     ```python 
       print(round(8 / 3, 2)) #will return 2.67
@@ -81,11 +81,11 @@ Learned:
   - _and_ means they all have to be true
   - _or_ means only one has to be true
   - _not_ means it should NOT be what the condition is.
-- .lower() turns strings to all lowercase
+- ```.lower()``` turns strings to all lowercase
   ```python 
     "Miguel".lower() #returns "miguel"
   ```
-- .count() gives us the number of times a letter occurs in a string.
+- ```.count()``` gives us the number of times a letter occurs in a string.
   ```python
     "ayaya".count("a") # returns 3
   ```
@@ -100,9 +100,9 @@ Exercises:
 ### Day 4 - Randomisation and Python Lists
 Learned:
 - Python's Random Module [Link](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
-  - _random.randint(a, b)_ generates a random integer between a and b (inclusive)
-  - _random.random()_ outputs a random number between 0 and 1 not including 1.
-  - _random.seed()_ python's random module uses the current timestamp as the seed, but we can set the seed ourselves using this method.
+  - ```random.randint(a, b)``` generates a random integer between a and b (inclusive)
+  - ```random.random()``` outputs a random number between 0 and 1 not including 1.
+  - ```random.seed()``` python's random module uses the current timestamp as the seed, but we can set the seed ourselves using this method.
 - Python Lists [Link](https://docs.python.org/3/tutorial/datastructures.html)
   - The list is a __data structure__, it's a way of organizing and storing data in Python.
   ```python
@@ -111,9 +111,9 @@ Learned:
   - can be any data type, can be mixed data types.
   - indexes start from 0, _items\[0]_ gives us item1
   - you can also input negative indexes -1 will give us the last element on the list, _items\[-1]_ gives us item2.
-  - _list.append(a)_ will add the inputted element to the end of the list. i.e. _items.append(item3)_
-  - _list.extend(\[])_ will add another list to the end of a list.
-  - _string.split("")_ will split a string based on what's inputted in the function. [more info](https://www.askpython.com/python/string/convert-string-to-list-in-python)
+  - ```list.append(a)``` will add the inputted element to the end of the list. i.e. _items.append(item3)_
+  - ```list.extend(\[])``` will add another list to the end of a list.
+  - ```string.split("")``` will split a string based on what's inputted in the function. [more info](https://www.askpython.com/python/string/convert-string-to-list-in-python)
   - You can nest lists inside another list.
 
 Exercises:
@@ -130,12 +130,12 @@ fruits = ["Apple", "Peach", "Pear"]
 for fruit in fruits:
   print(fruit + " Pie")
 ```
-- sum() gets the total sum of all elements in a list.
+- ```sum()``` gets the total sum of all elements in a list.
 ```python
   scores = [1, 2, 3]
   sum(scores) #will give us 6.
 ```
-- max()/min(), gets the highest/lowest number in a list.
+- ```max()```/```min()```, gets the highest/lowest number in a list.
 ```python
   scores = [1, 2, 3]
   max(scores) #will return 3
@@ -154,12 +154,12 @@ print(total)
 for number in range(0, 13, 3):
   print(number) #this will print 0, 3, 6, 9, 12.
 ```
-- random.shuffle()
+- ```random.shuffle()```
   - the second parameter is optional, if not specified it uses random.random()
 ```python
   random.shuffle(x, random)
 ```
-- "".join(list), joins the list with the string in the quotes in between each element
+- ```"".join(list)```, joins the list with the string in the quotes in between each element
 ```python
   letters = ["h", "e", "y"]
   "".join(letters) #returns "hey"
