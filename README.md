@@ -7,6 +7,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 3 - Treasure Island (text based game)](https://repl.it/join/miugjtol-rmdpalo)
 - [Day 4 - Rock Paper Scissors](https://repl.it/join/plbcubfm-rmdpalo)
 - [Day 5 - Password Generator](https://repl.it/join/zkqfnsyx-rmdpalo)
+- [Day 6 - Reeborg Maze]()
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
@@ -143,6 +144,7 @@ for fruit in fruits:
 - using for loops with ranges
   - the arguments inputted into the range determines the start and end of the range(second digit not inclusive)
   - if a 3rd argument is inputted into a range that shows how much the range steps over each iteration.
+  - if only one argument is inputted it defaults to (0, number) ```python for number in range(6) #range(0, 6)```
 ```python
 total = 0 
 for number in range(1,101): #101 because we want it to include 100
@@ -173,3 +175,32 @@ Exercises:
 - [What is the highest score?](https://repl.it/join/nijsyfsa-rmdpalo)
 - [Adding all even numbers up to 100](https://repl.it/join/mdkqltqx-rmdpalo)
 - [FizzBuzz](https://repl.it/join/gdvgciug-rmdpalo)
+
+### Day 6 - Python Functions & Karel
+Learned:
+- [Built in python functions](https://docs.python.org/3/library/functions.html)
+- Functions in Python are written such that it is ```python function_name()``` the name followed by a set of parentheses.
+- If we want to define our own functions, we have to start it off with the keyword __def__ followed by the function name with parentheses and a colon.
+```python
+  def my_function():
+    #Do this
+    #Then this
+    #Then finally this
+```
+- To call a function we just simply type the name of the function with parentheses, and if there are arguments needed, type that in between the parentheses. ```python my_function()```
+- Indentation in Python, [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+  - PEP 8 style guide dictates that indentations are 4 spaces (tragic, I've been using 2 for the previous repls)
+  - While loops in Python
+  ```python
+    number_of_cookies = 6
+    while number_of_cookies > 0:
+      eat_cookie()
+      number_of_cookies -= 1
+  ```
+  - Be wary of infinite loops :)
+Exercises:
+- All the exercises for this day are on [Reeborg](https://reeborg.ca/index_en.html)
+  - Hurdle 1
+  - Hurdle 2
+  - Hurdle 3
+
