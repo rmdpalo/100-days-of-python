@@ -8,6 +8,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 4 - Rock Paper Scissors](https://repl.it/join/plbcubfm-rmdpalo)
 - [Day 5 - Password Generator](https://repl.it/join/zkqfnsyx-rmdpalo)
 - [Day 6 - Reeborg Maze](https://twitter.com/MigsDev/status/1334370818885709831)
+- [Day 7 - Hangman Game](https://repl.it/join/ucqmzbie-rmdpalo)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
