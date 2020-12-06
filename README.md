@@ -213,3 +213,15 @@ import random
 from hangman_words import word_list //syntax for importing modules (word_list) from other files (hangman_words.py).
 from hangman_art import stages, logo //multiple modules (stages and logo) from the same file (hangman_art.py).
 ```
+
+### Day 8 - Function Parameters & Caesar Cipher
+Learned: 
+- We can add a name of a variable between the parentheses of a function to start giving it some inputs.
+```python
+def my_function(something):
+  #Do this with (something)
+```
+- Parameter is the name of the data that we pass into a function.
+- Argument is the actual piece of data that we pass into the function.
+Exercises:
+
