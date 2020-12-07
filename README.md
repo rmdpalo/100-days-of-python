@@ -241,4 +241,5 @@ def greet_with_name(name, location);
 greet_with_name(location="LA", name="Miguel") #"Hello LA, how is the weather at Miguel?"
 ```
 Exercises:
-
+- [Paint Area Calculator](https://repl.it/join/lrxgzrgd-rmdpalo)
+- [Prime Number Checker](https://repl.it/join/pgxxittl-rmdpalo)
