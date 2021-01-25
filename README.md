@@ -263,5 +263,29 @@ Learned:
 ```python
   print(my_dictionary["Name"]) #prints Miguel
 ```
+- Adding to a dictionary, somewhat similar to declaring a variable.
+```python
+  my_dictionary["Languages"] = "English and Filipino"
+  #the key is contained in the square brackets and the value is on the right side of the =
+  print(my_dictionary) #will return our dictionary with the updated key value pairs.
+```
+- Wiping a dictionary is the same as creating an empty dictionary
+```python
+  new_dictionary = {} #new, empty dictionary
+  my_dictionary = {} #wiped our first dictionary
+  print(my_dictionary) #will just print out empty curlies
+```
+- Editing an entry is the same syntax as adding a new key value pair, just use the key of the entry you want to edit.
+```python
+  my_dictionary["Hobby"] = "Anything but coding." #replaces the original value of this key. 
+```
+- Looping through a dictionary
+```python
+  for key in my_dictionary:
+    print(key) #prints the key
+    print(my_dictionary[key]) #prints the value
+```
+
+
 
 
