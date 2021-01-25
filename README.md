@@ -10,6 +10,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 6 - Reeborg Maze](https://twitter.com/MigsDev/status/1334370818885709831)
 - [Day 7 - Hangman Game](https://repl.it/join/ucqmzbie-rmdpalo)
 - [Day 8 - Caesar Cypher](https://repl.it/join/gzgzdfld-rmdpalo)
+- [Day 9 - Secret Auction]()
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
@@ -244,3 +245,15 @@ greet_with_name(location="LA", name="Miguel") #"Hello LA, how is the weather at 
 Exercises:
 - [Paint Area Calculator](https://repl.it/join/lrxgzrgd-rmdpalo)
 - [Prime Number Checker](https://repl.it/join/pgxxittl-rmdpalo)
+
+### Day 9 - Dictionaries, Nesting, and the Secret Auction
+Learned:
+- Dictionaries are useful because they allow us to group together and tag related pieces of information.
+  - Think of Dictionaries in the form of a table. We have the keys (words) and the values (definition)
+- To create a dictionary
+  - We start by typing our key and vlue separated by a colon wrapped in curly braces, any subsequent pairs must be separated with a comma.
+  ```python {"Name": "Miguel", 
+    "Favorite Color": "Blue",
+    "Hobby": "Coding"}```
+
+
