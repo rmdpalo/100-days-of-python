@@ -252,12 +252,12 @@ Learned:
   - Think of Dictionaries in the form of a table. We have the keys (words) and the values (definition)
 - To create a dictionary
   - We start by typing our key and vlue separated by a colon wrapped in curly braces, any subsequent pairs must be separated with a comma.
-  ```python 
-    my_dictionary = {
-      "Name": "Miguel", 
-      "Favorite Color": "Blue",
-      "Hobby": "Coding"
-    }
-  ```
+```python 
+  my_dictionary = {
+    "Name": "Miguel", 
+    "Favorite Color": "Blue",
+    "Hobby": "Coding",
+  }
+```
 
 
