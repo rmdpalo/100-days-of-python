@@ -259,5 +259,9 @@ Learned:
     "Hobby": "Coding",
   }
 ```
+- To refer to a key value pair in python we type the name of the dictionary followed by square brackets that contain the key of the value we want
+```python
+  print(my_dictionary["Name"]) #prints Miguel
+```
 
 
