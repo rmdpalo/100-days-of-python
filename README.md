@@ -285,7 +285,39 @@ Learned:
     print(key) #prints the key
     print(my_dictionary[key]) #prints the value
 ```
-
+- Nesting Lists and Dictionaries
+```python
+  capitals = {
+    "France": "Paris",
+    "Germany": "Berlin",
+  }
+  
+  #if I wanted to nest a list in a dictionary
+  travel_log = {
+    "France": ["Paris", "Lille", "Dijon"],
+    "Germany": ["Berlin", "Hamburg"],
+  }
+  
+  #nesting a dictionary in a dictionary
+  travel_log = {
+    "France": {"cities_visited": ["Paris", "Lille", "Dijon"], "total_visits": 12},
+    "Germany": {"cities_visited": ["Berlin", "Hamburg", "Stuttgart"], "total_visits": 5},
+  }
+  
+  #nesting a dictionary in a list.
+  travel_log = [
+    {
+      "country": "France", 
+      "cities_visited": ["Paris", "Lille", "Dijon"], 
+      "total_visits": 12,
+    },
+    {
+      "country": "Germany",
+      "cities_visited": ["Berlin", "Hamburg", "Stuttgart"],
+      "total_visits": 5,
+    },
+  ]
+```
 
 
 
