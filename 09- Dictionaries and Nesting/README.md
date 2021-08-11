@@ -70,3 +70,6 @@ Learned:
     },
   ]
 ```
+### Exercises
+- [Grading Program](https://replit.com/@rmdpalo/day-9-1-exercise#README.md)
+- [Dictionary in List](https://replit.com/@rmdpalo/day-9-2-exercise#README.md)
