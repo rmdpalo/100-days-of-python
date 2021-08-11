@@ -2,14 +2,14 @@
 
 ## Projects
 _The links will take you to a repl page where you can see the code written and to run it just click the "Run" / &#9654; button at the top of the page. (I recommend you right click and open in a new tab)_
-- [Day 1 - Team Name Generator](https://repl.it/join/butaniba-rmdpalo)
-- [Day 2 - Tip Calculator](https://repl.it/join/jkqjrpso-rmdpalo)
-- [Day 3 - Treasure Island (text based game)](https://repl.it/join/miugjtol-rmdpalo)
-- [Day 4 - Rock Paper Scissors](https://repl.it/join/plbcubfm-rmdpalo)
-- [Day 5 - Password Generator](https://repl.it/join/zkqfnsyx-rmdpalo)
+- [Day 1 - Team Name Generator](https://replit.com/@rmdpalo/1-team-name-generator#main.py)
+- [Day 2 - Tip Calculator](https://replit.com/@rmdpalo/2-tip-calculator#main.py)
+- [Day 3 - Treasure Island (text based game)](https://replit.com/@rmdpalo/3-treasure-island#main.py)
+- [Day 4 - Rock Paper Scissors](https://replit.com/@rmdpalo/4-rock-paper-scissors#main.py)
+- [Day 5 - Password Generator](https://replit.com/@rmdpalo/5-password-generator#main.py)
 - [Day 6 - Reeborg Maze](https://twitter.com/MigsDev/status/1334370818885709831)
-- [Day 7 - Hangman Game](https://repl.it/join/ucqmzbie-rmdpalo)
-- [Day 8 - Caesar Cypher](https://repl.it/join/gzgzdfld-rmdpalo)
+- [Day 7 - Hangman Game](https://replit.com/@rmdpalo/7-Hangman#main.py)
+- [Day 8 - Caesar Cypher](https://replit.com/@rmdpalo/8-caesar-cipher#main.py)
 - [Day 9 - Secret Auction](https://replit.com/@rmdpalo/9-blind-auction#main.py)
 
 ## Notes
