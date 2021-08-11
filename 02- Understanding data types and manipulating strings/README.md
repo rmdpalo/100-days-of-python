@@ -34,6 +34,6 @@ Learned:
     #will return "your score is 0, your height is 1.7m
   ```
 Exercises:
-- [Sum of two numbers.](https://repl.it/join/jnechydl-rmdpalo)
-- [BMI Calculator](https://repl.it/join/uxtoqvma-rmdpalo)
-- [Your Life in Weeks](https://repl.it/join/sgixppuc-rmdpalo)
+- [Sum of two numbers.](https://replit.com/@rmdpalo/day-2-1-exercise#README.md)
+- [BMI Calculator](https://replit.com/@rmdpalo/day-2-2-exercise#README.md)
+- [Your Life in Weeks](https://replit.com/@rmdpalo/day-2-3-exercise#README.md)
