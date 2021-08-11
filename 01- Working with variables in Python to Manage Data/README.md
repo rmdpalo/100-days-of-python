@@ -13,7 +13,7 @@ Learned:
   - name = "Miguel"
   
 Exercises: 
-- [Printing to the console](https://repl.it/join/rqvtmrbw-rmdpalo)
-- [Debugged print functions](https://repl.it/join/hnqygxft-rmdpalo)
-- [How many chars in your name](https://repl.it/join/whwambrr-rmdpalo)
-- [Switching values](https://repl.it/join/lyqifhza-rmdpalo)
+- [Printing to the console](https://replit.com/@rmdpalo/day-1-1-exercise#README.md)
+- [Debugged print functions](https://replit.com/@rmdpalo/day-1-2-exercise#README.md)
+- [How many chars in your name](https://replit.com/@rmdpalo/day-1-3-exercise#README.md)
+- [Switching values](https://replit.com/@rmdpalo/day-1-4-exercise-1#README.md)
