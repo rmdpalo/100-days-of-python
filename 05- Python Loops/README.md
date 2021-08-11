@@ -48,7 +48,7 @@ for number in range(0, 13, 3):
   letters.append("o")
 ```
 Exercises:
-- [Average Height Calculator](https://repl.it/join/wcthczik-rmdpalo)
-- [What is the highest score?](https://repl.it/join/nijsyfsa-rmdpalo)
-- [Adding all even numbers up to 100](https://repl.it/join/mdkqltqx-rmdpalo)
-- [FizzBuzz](https://repl.it/join/gdvgciug-rmdpalo)
+- [Average Height Calculator](https://replit.com/@rmdpalo/day-5-1-exercise#README.md)
+- [What is the highest score?](https://replit.com/@rmdpalo/day-5-2-exercise#README.md)
+- [Adding all even numbers up to 100](https://replit.com/@rmdpalo/day-5-3-exercise#README.md)
+- [FizzBuzz](https://replit.com/@rmdpalo/day-5-4-exercise#README.md)
