@@ -10,7 +10,7 @@ _The links will take you to a repl page where you can see the code written and t
 - [Day 6 - Reeborg Maze](https://twitter.com/MigsDev/status/1334370818885709831)
 - [Day 7 - Hangman Game](https://repl.it/join/ucqmzbie-rmdpalo)
 - [Day 8 - Caesar Cypher](https://repl.it/join/gzgzdfld-rmdpalo)
-- [Day 9 - Secret Auction]()
+- [Day 9 - Secret Auction](https://replit.com/@rmdpalo/9-blind-auction#main.py)
 
 ## Notes
 ### Day 1 - Working with Variables in Python to Manage Data
