@@ -18,8 +18,8 @@ Learned:
   ```
   
 Exercises:
-- [Odd or Even](https://repl.it/join/gvsgefkm-rmdpalo)
-- [BMI Calculator 2.0](https://repl.it/join/fztvlryq-rmdpalo)
-- [Leap Year?](https://repl.it/join/cvtvuslz-rmdpalo)
-- [Pizza Order](https://repl.it/join/tipztwph-rmdpalo)
-- [Love Calculator](https://repl.it/join/pheuasgb-rmdpalo)
+- [Odd or Even](https://replit.com/@rmdpalo/day-3-1-exercise-odd-even#README.md)
+- [BMI Calculator 2.0](https://replit.com/@rmdpalo/day-3-2-exercise-bmi-calculator#README.md)
+- [Leap Year?](https://replit.com/@rmdpalo/day-3-3-exercise-leap-year#README.md)
+- [Pizza Order](https://replit.com/@rmdpalo/day-3-4-exercise-pizza-order#README.md)
+- [Love Calculator](https://replit.com/@rmdpalo/day-3-5-exercise-love-calculator#README.md)
