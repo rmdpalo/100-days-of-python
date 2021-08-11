@@ -18,6 +18,6 @@ Learned:
   - You can nest lists inside another list.
 
 Exercises:
-- [Coin Flip](https://repl.it/join/pvlaruqf-rmdpalo)
-- [Banker Roulette, who will pay the bill?](https://repl.it/join/dfcblpkz-rmdpalo)
-- [Treasure Map](https://repl.it/join/inspblyp-rmdpalo)
+- [Coin Flip](https://replit.com/@rmdpalo/day-4-1-exercise#README.md)
+- [Banker Roulette, who will pay the bill?](https://replit.com/@rmdpalo/day-4-2-exercise#README.md)
+- [Treasure Map](https://replit.com/@rmdpalo/day-4-3-exercise#README.md)
