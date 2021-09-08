@@ -11,3 +11,4 @@ My notes, exercises, and projects as I go through my 100 days of Python.
 - [Day 8 - Caesar Cypher](https://replit.com/@rmdpalo/8-caesar-cipher#main.py)
 - [Day 9 - Secret Auction](https://replit.com/@rmdpalo/9-blind-auction#main.py)
 - [Day 10 - Calculator](https://replit.com/@rmdpalo/10-calculator-final#main.py)
+- [CAPSTONE 1 - BLACKJACK](https://replit.com/@rmdpalo/blackjack-start#main.py)
