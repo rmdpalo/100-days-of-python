@@ -12,3 +12,4 @@ My notes, exercises, and projects as I go through my 100 days of Python.
 - [Day 9 - Secret Auction](https://replit.com/@rmdpalo/9-blind-auction#main.py)
 - [Day 10 - Calculator](https://replit.com/@rmdpalo/10-calculator-final#main.py)
 - [CAPSTONE 1 - BLACKJACK](https://replit.com/@rmdpalo/blackjack-start#main.py)
+- [Day 12 - Guess the Number Game](https://replit.com/@rmdpalo/guess-the-number)
